@@ -2,6 +2,8 @@
 
 Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
 
+Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+
 #1
 mojombo#1
 mojombo/github-flavored-markdown#1
