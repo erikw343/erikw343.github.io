@@ -1,6 +1,22 @@
 ## Welcome to GitHub Pages
 
 
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+
+
+
 I think you should use an
 `<addr>` element here instead.
 
