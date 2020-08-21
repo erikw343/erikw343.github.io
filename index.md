@@ -6,6 +6,11 @@
    1. Item 3a
    1. Item 3b
 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
 You can use the [editor on GitHub](https://github.com/erikw343/erikw343.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
