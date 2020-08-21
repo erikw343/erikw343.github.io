@@ -1,6 +1,9 @@
 ## Welcome to GitHub Pages
 
 
+I think you should use an
+`<addr>` element here instead.
+
 As Kanye West said:
 
 > We're living the future so
