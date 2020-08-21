@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
+
+
 1. Item 1
 1. Item 2
 1. Item 3
