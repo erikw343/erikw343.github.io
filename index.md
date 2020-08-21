@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
 
+Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
 
 #1
 mojombo#1
