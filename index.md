@@ -15,9 +15,9 @@ function fancyAlert(arg) {
       }
     }
 
-   def foo():
-       if not bar:
-           return True
+    def foo():
+        if not bar:
+            return True
 
 
 I think you should use an
