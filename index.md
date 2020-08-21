@@ -10,6 +10,9 @@
 * Item 2
    * Item 2a
    * Item 2b
+   
+![GitHub Logo (Erik)](/images/logo.png)
+Format: ![Alt Text](url)
 
 You can use the [editor on GitHub](https://github.com/erikw343/erikw343.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
