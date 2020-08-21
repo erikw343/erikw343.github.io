@@ -8,8 +8,8 @@
 
 * Item 1
 * Item 2
-  * Item 2a
-  * Item 2b
+   * Item 2a
+   * Item 2b
 
 You can use the [editor on GitHub](https://github.com/erikw343/erikw343.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
