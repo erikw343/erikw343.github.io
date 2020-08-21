@@ -13,7 +13,7 @@
    
    
    
-![GitHub Logo (Erik)](http://www.filmcow.com/filmcow.png)
+![GitHub Logo (Erik)](http://www.filmcow.com/filmcowaflack.png)
 Format: ![Alt Text](url)
 
 You can use the [editor on GitHub](https://github.com/erikw343/erikw343.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
